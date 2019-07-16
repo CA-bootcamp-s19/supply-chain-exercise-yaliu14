@@ -43,9 +43,7 @@ contract SupplyChain {
     address payable seller;
     address payable buyer;
   }
-  
-
-  
+ 
 
   /* Create 4 events with the same name as each possible State (see above)
     Prefix each event with "Log" for clarity, so the forSale event will be called "LogForSale"
